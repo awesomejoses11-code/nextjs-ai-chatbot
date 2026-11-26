@@ -42,3 +42,7 @@ yarn-error.log*
 /playwright-report/
 /blob-report/
 /playwright/*
+
+# Canton devkit campaign code backup - an identifier for this install,
+# not a security credential, but there is no reason to publish it.
+campaign-id-backup.txt
